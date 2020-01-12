@@ -1,0 +1,21 @@
+['user_id', 'weibo_id', 'time', 'repost', 'comments', 'likes', 'tfidf',
+       'text', 'number_in_train', 'forward_max', 'comment_max', 'like_max',
+       'forward_min', 'comment_min', 'like_min', 'forward_mean',
+       'comment_mean', 'like_mean', 'forward_more_ave_pr',
+       'comment_more_ave_pr', 'like_more_ave_pr', 'max_f/l', 'max_c/l',
+       'min_f/l', 'min_c/l', 'mean_f/l', 'mean_c/l', 'time_weekday',
+       'time_weekend', 'time_hour', 'panduan', 'length_all', 'length_chinese',
+       'english', 'non_ch', 'sharing', 'auto', 'interaction', 'book',
+       'mention', 'vote', 'lottery', 'emoji', 'video', 'http', 'app', 'title',
+       'ad', 'hotwords', 'keywords', 'stock', 'is_noise']
+
+['user_id', 'weibo_id', 'time', 'repost', 'comments', 'likes', 'tfidf',
+       'text', 'number_in_train', 'forward_max', 'comment_max', 'like_max',
+       'forward_min', 'comment_min', 'like_min', 'forward_mean',
+       'comment_mean', 'like_mean', 'forward_more_ave_pr',
+       'comment_more_ave_pr', 'like_more_ave_pr', 'max_f/l', 'max_c/l',
+       'min_f/l', 'min_c/l', 'mean_f/l', 'mean_c/l', 'time_weekday',
+       'time_weekend', 'time_hour', 'panduan', 'length_all', 'length_chinese',
+       'english', 'non_ch', 'sharing', 'auto', 'interaction', 'book',
+       'mention', 'vote', 'lottery', 'emoji', 'video', 'http', 'stock', 'app',
+       'title', 'ad', 'hotwords', 'keywords']
