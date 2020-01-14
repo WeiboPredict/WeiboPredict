@@ -7,4 +7,8 @@
 
 Logistic regression + random forest
 
+**Model**
+
+![img](./res/pipeline.png)
+
 ## 特征说明
